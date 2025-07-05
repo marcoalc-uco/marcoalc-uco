@@ -1,26 +1,25 @@
-# 👋 Hi, This is Marco
+# 👋 Hi, I'm Marco
 
-👨‍💻 Engineer with a strong passion for **DevOps**, automation, and cloud technologies.  
-🚀 Always learning, always building — I love to improve systems and simplify operations through code.
+👨‍💻 Engineer passionate about **IoT**, automation, and cloud technologies.  
+🚀 Always learning and building — I love improving systems and simplifying operations through code.
 
 ---
 
 ## 📂 Featured Projects
-<!--
-- 🔧 **CI/CD with GitHub Actions**  
-  Automate testing and deployment using GitHub workflows.
 
-- 📦 **Dockerized App Stack**  
-  Build and run multi-service environments with Docker Compose.
+- 🐳 **Containerized Infrastructure (Docker)**  
+  DevOps projects using Docker and Docker Compose to deploy modular systems.
 
-- ☁️ **Infrastructure with Terraform**  
-  Deploy cloud resources as code, versioned and automated.
+- 📊 **Optimization Models (Python)**  
+  Development of linear and combinatorial optimization models using Python and solvers.
+  
+- 🌐 **IoT System Architecture**  
+  Design and deployment of IoT systems using microcontrollers, MQTT communication, and cloud-based data integration.
 
-- 📈 **Monitoring Stack**  
-  System metrics and alerts with Prometheus + Grafana.
+- 📈 **Real-Time Monitoring with Grafana**  
+  Visualization of real-time system or sensor data using Grafana and time-series databases. 
 
 > 🔗 Check pinned repositories below for details.
--->
 
 ---
 
@@ -40,19 +39,17 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
 
-![JSON](https://img.shields.io/badge/JSON-000?style=flat&logo=json&logoColor=whitee&style=flat)
-![YAML](https://img.shields.io/badge/YAML-000?style=flat&logo=yaml&logoColor=whitee&style=flat)
-![CSV](https://img.shields.io/badge/CSV-000?style=flat&logo=files&logoColor=whitee&style=flat)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![CrateDB](https://img.shields.io/badge/CrateDB-0E2941?style=flat&logo=data:image/svg+xml;base64,[ICONO])
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+![CrateDB](https://img.shields.io/badge/CrateDB-0E2941?style=flat&logoColor=white)
+
 
 ---
 
 ## 📫 Get in touch
 
-- 🪪 [LinkedIn](https://www.linkedin.com/in/marco-%C3%A0lice-987387266/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marco-%C3%A0lice-987387266/)  
 - 📧 marco.alice.wrk@gmail.com  
-- 💬 Open to collaborations and DevOps projects
+- 💬 Open to collaborations
 
 
