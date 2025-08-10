@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marco
 
-👨‍💻 Engineer passionate about **IoT**, automation, and cloud technologies.  
+👨‍💻 Engineer passionate about **IoT**, automation, and data technologies.  
 🚀 Always learning and building — I love improving systems and simplifying operations through code.
 
 ---
