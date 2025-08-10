@@ -16,6 +16,9 @@
 - 🌐 **IoT System Architecture**  
   Design and deployment of IoT systems using microcontrollers, MQTT communication, and cloud-based data integration.
 
+- 📑 **Data Engineering & Analysis**  
+  Work with structured and unstructured datasets (CSV, JSON, SQL), focusing on ETL and processing for analytics and decision-making.
+
 - 📈 **Real-Time Monitoring with Grafana**  
   Visualization of real-time system or sensor data using Grafana and time-series databases. 
 
