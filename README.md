@@ -51,7 +51,7 @@
 
 ## 📫 Get in touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marco-%C3%A0lice-987387266/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcoalice/)  
 - 📧 marco.alice.wrk@gmail.com  
 - 💬 Open to collaborations
 
