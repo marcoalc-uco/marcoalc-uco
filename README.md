@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marco
 
-👨‍💻 Engineer passionate about **IoT**, backend and data technologies.  
+👨‍💻 Engineer passionate about **IoT**, **Backend** and **Data** technologies.  
 🚀 Always learning and building — I love improving systems and simplifying operations through code.
 
 ---
@@ -12,15 +12,15 @@
 
 - 🧩 **Backend Development (Python / FastAPI)**  
   Design and implementation of backend services using Python, FastAPI, and Pydantic, with a focus on RESTful APIs, data validation, business logic, and clean architecture principles.
+
+- 📑 **Data Engineering & Analysis**  
+  Work with structured and unstructured datasets (CSV, JSON, SQL), focusing on ETL and processing for analytics and decision-making.
   
 - 🌐 **IoT System Architecture**  
   Design and deployment of IoT systems using microcontrollers, MQTT communication, and cloud-based data integration.
 
-- 📑 **Data Engineering & Analysis**  
-  Work with structured and unstructured datasets (CSV, JSON, SQL), focusing on ETL and processing for analytics and decision-making.
-
-- 📈 **Real-Time Monitoring with Grafana**  
-  Visualization of real-time system or sensor data using Grafana and time-series databases. 
+- 📈 **Data Analytics & Real-Time Monitoring**  
+  Visualization of time-series data and deployment of predictive analytics for optimization and forecasting. 
 
 > 🔗 Check pinned repositories below for details.
 
