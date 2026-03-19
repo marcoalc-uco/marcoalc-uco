@@ -13,22 +13,23 @@ Focused on clean architecture, data quality, and LLM integration with local mode
 ## Featured Projects
 
 ### [Market Data Platform](https://github.com/marcoalc-uco/market_data_platform)
-> FastAPI · React · Ollama · ChromaDB · PostgreSQL · MongoDB · Docker
+> FastAPI · React 18 · Ollama · ChromaDB · PostgreSQL · Docker · GitHub Actions
 
 Full-stack financial data platform with automated ETL ingestion, time-series storage,
-React dashboards, and AI analysis via local LLM with RAG and vector search.
+React dashboards with candlestick charts, and RAG-powered AI assistant via local LLM.
+CI/CD pipelines for both backend and frontend.
 
 ### [Market Data Backend](https://github.com/marcoalc-uco/market_data_backend_platform)
 > FastAPI · PostgreSQL · SQLAlchemy · Alembic · Grafana · GitHub Actions
 
 Production FastAPI backend with clean architecture (repository pattern, service layer,
-dependency injection), JWT auth, CI/CD pipeline, and ≥85% test coverage.
+dependency injection), JWT auth, automated ETL scheduler, and ≥85% test coverage.
 
 ### [FIWARE Actuators SDK](https://github.com/marcoalc-uco/fiware_actuators_setup)
-> Python · MQTT · FIWARE Orion · IoT Agent UltraLight
+> Python · MQTT · FIWARE Orion · IoT Agent UltraLight · Pydantic
 
-Reusable Python SDK for IoT actuator provisioning and context data management
-over the FIWARE ecosystem (Orion Context Broker + MQTT).
+Installable Python SDK for IoT actuator provisioning and context data management
+over the FIWARE ecosystem (Orion Context Broker + IoT Agent UltraLight + MQTT).
 
 ---
 
@@ -37,6 +38,7 @@ over the FIWARE ecosystem (Orion Context Broker + MQTT).
 **Backend** — Python · FastAPI · SQLAlchemy · Alembic · REST API · JWT · Async  
 **AI & Data** — LLM Integration · RAG · ChromaDB · Vector Search · ETL Pipelines  
 **Databases** — PostgreSQL · MongoDB · Time-Series Data  
+**Frontend** — React 18 · Vite · TanStack Query  
 **DevOps** — Docker · GitHub Actions · CI/CD · Nginx · Linux  
 **Testing** — pytest · mypy · black · pre-commit · Integration Testing  
 **IoT** — FIWARE · MQTT · Context Broker  
@@ -49,7 +51,6 @@ over the FIWARE ecosystem (Orion Context Broker + MQTT).
 - Cloud & MLOps — model deployment, observability at scale
 
 ---
-
 
 ## 📫 Get in touch
 
