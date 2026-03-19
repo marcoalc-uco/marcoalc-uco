@@ -38,7 +38,7 @@ over the FIWARE ecosystem (Orion Context Broker + IoT Agent UltraLight + MQTT).
 **Backend** — Python · FastAPI · SQLAlchemy · Alembic · REST API · JWT · Async  
 **AI & Data** — LLM Integration · RAG · ChromaDB · Vector Search · ETL Pipelines  
 **Databases** — PostgreSQL · MongoDB · Time-Series Data  
-**Frontend** — React 18 · Vite · TanStack Query  
+**Frontend** — React 18 · Vite · JavaScript  ·  HTML  ·  CSS
 **DevOps** — Docker · GitHub Actions · CI/CD · Nginx · Linux  
 **Testing** — pytest · mypy · black · pre-commit · Integration Testing  
 **IoT** — FIWARE · MQTT · Context Broker  
