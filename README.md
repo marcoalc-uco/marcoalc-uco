@@ -6,7 +6,7 @@ Software Engineer with hands-on experience building production-grade REST APIs,
 automated ETL pipelines, and AI-powered applications.
 Focused on clean architecture, data quality, and LLM integration with local models.
 
-📍 Spain · [LinkedIn](https://www.linkedin.com/in/marcoalice/) · marco.alice.wrk@gmail.com
+📍 Spain · [Portfolio](https://www.marcoalice.com) · [LinkedIn](https://www.linkedin.com/in/marcoalice/) · marco.alice.wrk@gmail.com
 
 ---
 
